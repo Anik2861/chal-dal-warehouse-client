@@ -1,0 +1,10 @@
+.banner{
+        height: 90vh;
+        display: flex;
+        align-items: center;
+        background-color: rgb(255, 231, 222);
+}
+
+.banner img{
+        border-radius: 8px;
+}

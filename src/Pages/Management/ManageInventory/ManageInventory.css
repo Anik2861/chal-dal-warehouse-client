@@ -1,0 +1,13 @@
+#t-border{
+        border-bottom: 2px solid orangered;
+        border-top: 1px solid black;
+        text-align: center;
+}
+
+.add-item-section{
+        width: 300px;
+        margin-left: auto;
+        background-color: rgb(252, 203, 185);
+        padding: 3%;
+        border-radius: 8px;
+}

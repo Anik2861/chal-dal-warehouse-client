@@ -1,0 +1,21 @@
+.item-img{
+        height: 280px;
+        margin: 0 auto;
+}
+.item-img img{
+        padding: 10px;
+        height: 100%;
+        width: 100%;
+}
+.item-detail{
+        box-shadow: 20px 20px 100px lightgray;
+        border-radius: 10px;
+}
+
+.item:hover .item-img img{
+        transform: scale(.94);
+        transition: transform .3s ease-in-out;
+}
+.item:hover .item-detail{
+        background-color: rgb(249, 214, 202);
+}

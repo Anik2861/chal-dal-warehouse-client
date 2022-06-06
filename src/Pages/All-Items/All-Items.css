@@ -1,0 +1,12 @@
+.category-btn{
+        background-color: white;
+        font-weight: bold;
+        border: 2px solid orangered;
+        font-size: 18px;
+        color: black;
+}
+
+.category-btn:hover{
+        background-color: orangered;
+        color: white;
+}
