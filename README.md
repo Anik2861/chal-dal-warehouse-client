@@ -1,6 +1,5 @@
 # Chaldal-Warehouse
 <h3>Live Site: <a target="_blank" href="https://chaldal-warehouse.web.app/">Chaldal Warehouse</a></h3>
-<h5>Hello!</h5>
 <p>I have made a website related warehouse. Where an item can be added, as well as that item can be updated. For example, the quantity of the item can be increased or the quantity can be reduced by delivery. All data will be updated in the database immediately. You can even delete an item if you want. Which is a Mern-Stack website. 
 
 <br/> For complete this site I have used some technology and I
