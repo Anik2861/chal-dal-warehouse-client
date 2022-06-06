@@ -71,8 +71,5 @@
         </li>
 </ul>
 <br>
-<h4>I have shared the Home page UI in below-</h4>
-<br> <br>
-<img src="https://i.ibb.co/z2KgL7v/chal-dal-warehouse.png" alt="">
-<br><br>
-<h3>That's it, Thank You</h3>
+
+
